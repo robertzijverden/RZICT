@@ -1,5 +1,5 @@
 @{
-    ModuleVersion = '1.0'
+    ModuleVersion = '1.1'
     GUID          = 'dce9309b-4091-479a-8d7e-40c56649bf68'
     Author        = 'Robert van Zijverden'
     Description   = 'Global Functiecatalogus'
